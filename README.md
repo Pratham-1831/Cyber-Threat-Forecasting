@@ -33,7 +33,10 @@ A real-world CSV file containing:
 - 🏭 Top 10 affected industries  
 - 🌍 Country-wise attack counts  
 - 🧊 Heatmap of Industry vs Attack Type  
-- ⏳ Time trend of most common attack  
+- ⏳ Time trend of most common attack
+
+- ![image](https://github.com/user-attachments/assets/349d60f8-3486-4e5d-bef9-3ca53ae41001)
+
 
 ---
 

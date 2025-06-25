@@ -35,7 +35,12 @@ A real-world CSV file containing:
 - 🧊 Heatmap of Industry vs Attack Type  
 - ⏳ Time trend of most common attack
 
-- ![image](https://github.com/user-attachments/assets/349d60f8-3486-4e5d-bef9-3ca53ae41001)
+ ![image](https://github.com/user-attachments/assets/ed7586b6-3504-4d23-91b7-ac8996958e5e)
+
+ ![image](https://github.com/user-attachments/assets/349d60f8-3486-4e5d-bef9-3ca53ae41001)
+
+ 
+
 
 
 ---
